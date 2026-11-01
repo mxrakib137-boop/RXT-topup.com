@@ -1,7 +1,7 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "YASIN";
+var website_name = Rxt topup.com
 
 // =======================================================
 // TELEGRAM CHANNEL LINK https://t.me/rxttopup
