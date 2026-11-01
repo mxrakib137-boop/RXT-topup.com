@@ -6,7 +6,7 @@ var website_name = Rxt topup.com
 // =======================================================
 // TELEGRAM CHANNEL LINK https://t.me/rxttopup
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = https://t.me/rxttopup
 
 // =======================================================
 // TELEGRAM GROUP https://t.me/+WaijMp2jVUo5YmE1
