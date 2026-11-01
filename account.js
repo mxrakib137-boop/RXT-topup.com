@@ -4,12 +4,12 @@
 var website_name = "YASIN";
 
 // =======================================================
-// TELEGRAM CHANNEL LINK
+// TELEGRAM CHANNEL LINK https://t.me/rxttopup
 // =======================================https://t.me/rxttopup================
 var telegram_channel_link = "telegram channel link";
 
 // =======================================================
-// TELEGRAM GROUP LINK
+// TELEGRAM GROUP https://t.me/+WaijMp2jVUo5YmE1
 // =======================================================
 var telegram_group_link = "telegram group link";
 
