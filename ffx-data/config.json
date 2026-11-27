@@ -20,7 +20,9 @@
       "url": ""
     }
   ],
-  "images": null,
+  "images": {
+    "in": "img-in-1795789084803.jpg"
+  },
   "prod": {
     "uid": {
       "packages": [
